@@ -1,4 +1,4 @@
-#General considerations
+# General considerations
 The topic off e-waste is really important and not so important right now, but from what I've seen, the problem is real and It's growing. I do not know how to implement this kind of consideration in the proposals that I have chosen, but It could be a topic for another time(or the future outlooks section)
 
 The topic of 6G, with its wide variety of possible technologies, could be linked with edge devices and cloud to speedup high throughput situations with complex data. In fact [6G](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9349624) is really close to topics like **edge computing** and **AI**(also Blockchain technologies) because, with this technology, the possibility of building large distributed systems on cellular lines and wireless communication could be a really popular matter in the future.
