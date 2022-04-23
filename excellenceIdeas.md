@@ -9,5 +9,8 @@ A diagram like sequence diagrams, workflow diagrams for the WP and tasks and a l
 
 Substituting ingenias with my metamodels, based on ontologies and multiagents
 3. novelty
+compare the framework with other projects that are aimed at similar objectives
+
+compare the methodologies with the ones used for non-european projects and european projects as well, not getting too much into details since the methodology will be presented in the next section.
 4. methodology
 5. interdisciplinary nature
