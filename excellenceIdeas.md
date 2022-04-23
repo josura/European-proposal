@@ -9,7 +9,13 @@ A diagram like sequence diagrams, workflow diagrams for the WP and tasks and a l
 
 Substituting ingenias with my metamodels, based on ontologies and multiagents
 3. novelty
-compare the framework with other projects that are aimed at similar objectives
+compare the framework with other projects that are aimed at similar objectives.
+The projects compared are:
+- non-european projects
+  - [https://www.sciencedirect.com/science/article/abs/pii/S1568494613001130?casa_token=D6OL0towVDAAAAAA:eBqwdppOaVmgzJmggTfHQszAb25xo6g85cFeuBA9cj0K8e3eCf599Xw68Q5IetrByhY8Sw](A hybrid decision support system based on rough set and extreme learning machine for diagnosis of hepatitis disease)
+
+- european projects
+  - [https://cordis.europa.eu/project/id/876967](Big data pRocessing and Artificial Intelligence at the Network Edge  **BRAINE**)
 
 compare the methodologies with the ones used for non-european projects and european projects as well, not getting too much into details since the methodology will be presented in the next section.
 4. methodology
