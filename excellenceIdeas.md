@@ -71,5 +71,7 @@ The approach taken in HIT2GAP was to build an open, plug and play, application-b
     - **comparision**:
 
 compare the methodologies with the ones used for non-european projects and european projects as well, not getting too much into details since the methodology will be presented in the next section.
+
 4. methodology
+
 5. interdisciplinary nature
