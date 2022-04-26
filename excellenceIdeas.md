@@ -93,6 +93,8 @@ The approach taken in HIT2GAP was to build an open, plug and play, application-b
 compare the methodologies with the ones used for non-european projects and european projects as well, not getting too much into details since the methodology will be presented in the next section.
 I also want to use some things about graphs (other than knowledge graphs to build the meta-model), especially for the decentralized mesh network of devices, **TODO**
 
+SSH is tackled with the addressing of the engagement of the user with the software that implements IDIoHMA, to address this topic, the framework will come with some sub-modules dedicated to this and the research will be addressing the topic of engagement for humans in a thoroughly manner since the main concern is to let the people participate with the software because the core functionalities of Decision Support System based on consensus will rely and heavily depend on the interaction of humans. 
+
 4. methodology
 
 5. interdisciplinary nature
