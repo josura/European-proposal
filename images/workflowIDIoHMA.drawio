@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-30T15:08:00.601Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="vsyBc4n0jeRFGN4xav6l" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-30T15:30:59.663Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="sEWAqftnR7Myf5OsekxW" version="17.4.6" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="1053" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -54,8 +54,29 @@
         <mxCell id="-kVu3TzySP_5u_fs3U-k-22" value="M2M" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="634.5" y="630" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="-kVu3TzySP_5u_fs3U-k-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=block;fillColor=none;" edge="1" parent="1" source="-kVu3TzySP_5u_fs3U-k-23" target="-kVu3TzySP_5u_fs3U-k-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-kVu3TzySP_5u_fs3U-k-23" value="IDIoHMA computation network" style="swimlane;fillColor=#FFFFFF;rounded=1;shadow=0;sketch=0;glass=1;swimlaneLine=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="340" width="460" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="-kVu3TzySP_5u_fs3U-k-27" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_network;pointerEvents=1;rounded=1;shadow=0;glass=1;sketch=0;" vertex="1" parent="-kVu3TzySP_5u_fs3U-k-23">
+          <mxGeometry x="200" y="201.25" width="60" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-kVu3TzySP_5u_fs3U-k-26" value="" style="shape=mxgraph.cisco.switches.multiswitch_device;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;rounded=1;shadow=0;glass=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="528" width="60" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="-kVu3TzySP_5u_fs3U-k-34" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="840" y="515" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-kVu3TzySP_5u_fs3U-k-24" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;glass=1;sketch=0;fillColor=#FFFFFF;" vertex="1" parent="-kVu3TzySP_5u_fs3U-k-34">
+          <mxGeometry width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-kVu3TzySP_5u_fs3U-k-29" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#4D27AA;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.virtual_node;rounded=1;shadow=0;glass=1;" vertex="1" parent="-kVu3TzySP_5u_fs3U-k-34">
+          <mxGeometry x="9" y="9" width="42" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="-kVu3TzySP_5u_fs3U-k-33" value="virtual &lt;br&gt;node" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-kVu3TzySP_5u_fs3U-k-34">
+          <mxGeometry x="52" y="15" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
